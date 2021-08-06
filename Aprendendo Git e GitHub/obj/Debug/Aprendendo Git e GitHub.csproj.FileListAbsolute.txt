@@ -1,0 +1,7 @@
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\bin\Debug\Aprendendo Git e GitHub.exe.config
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\bin\Debug\Aprendendo Git e GitHub.exe
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\bin\Debug\Aprendendo Git e GitHub.pdb
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\obj\Debug\Aprendendo Git e GitHub.csprojAssemblyReference.cache
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\obj\Debug\Aprendendo Git e GitHub.csproj.CoreCompileInputs.cache
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\obj\Debug\Aprendendo Git e GitHub.exe
+F:\Aprendendo Git e GitHub\Aprendendo-Git-e-GitHub\Aprendendo Git e GitHub\obj\Debug\Aprendendo Git e GitHub.pdb
