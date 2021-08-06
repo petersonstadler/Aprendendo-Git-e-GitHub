@@ -10,6 +10,8 @@ namespace Aprendendo_Git_e_GitHub
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello World");
+            Console.ReadLine();
         }
     }
 }
